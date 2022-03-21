@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@drawable/background"
+             android:alpha="0.7"
+             tools:context=".RegisterFragment">
+
+    <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/registration"
+            android:textSize="30sp"
+            android:layout_marginTop="50dp"
+            android:textStyle="bold"
+            android:textColor="#FF0000"
+            android:layout_marginLeft="130dp"/>
+
+    <EditText
+            android:id="@+id/reg_username"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/username"
+            android:layout_marginTop="150dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"/>
+
+    <EditText
+            android:id="@+id/reg_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password"
+            android:layout_marginTop="250dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            />
+
+    <EditText
+            android:id="@+id/reg_cnf_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="@string/confirm_password"
+            android:layout_marginTop="350dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"/>
+
+    <Button
+            android:id="@+id/btn_register_reg"
+            android:layout_width="128dp"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            android:backgroundTint="#FFA500"
+            android:layout_marginTop="450dp"
+            android:layout_marginLeft="140dp"/>
+
+    <TextView
+            android:id="@+id/already_registered"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/already_registered"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="70dp"/>
+
+    <TextView
+            android:id="@+id/tv_login_reg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textColor="#0000FF"
+            android:textSize="20sp"
+            android:layout_marginTop="500dp"
+            android:layout_marginLeft="250dp"/>
+
+
+</FrameLayout>
