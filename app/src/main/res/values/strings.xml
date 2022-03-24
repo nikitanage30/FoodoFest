@@ -15,6 +15,15 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="registration">Registration</string>
     <string name="logout">Logout</string>
+    <string name="nikitanage10_gmail_com">nikitanage10@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="my_orders">My Orders</string>
+    <string name="orders_history">Orders History</string>
+    <string name="logged_out">LOGGED OUT</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="my_orders_fragment">My Orders Fragment</string>
 
 
 </resources>

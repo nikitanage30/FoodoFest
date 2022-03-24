@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+            android:title="@string/profile" android:id="@+id/profile"/>
+
+    <item
+
+            android:title="@string/my_orders" android:id="@+id/my_orders"/>
+
+
+    <item
+
+            android:title="@string/orders_history" android:id="@+id/orders_history"/>
+
+    <item
+
+            android:title="@string/logout" android:id="@+id/logout"/>
+</menu>

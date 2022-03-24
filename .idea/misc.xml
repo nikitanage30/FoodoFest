@@ -3,14 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/activity_main.xml" value="0.13903985507246377" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/activity_main2.xml" value="0.18" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
-        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/content_main.xml" value="0.21" />
-        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_home.xml" value="0.16" />
-        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/content_main.xml" value="0.15" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_home.xml" value="0.15" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_login.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_logout.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_my__orders_.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/fragment_register.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/layout/navigation_header.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/menu/navigation_menu.xml" value="0.22" />
         <entry key="..\:/Users/Admin/Downloads/FoodoFest/FoodoFest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/SR-LP-1002/IdeaProjects/FoodoFest/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/SR-LP-1002/IdeaProjects/FoodoFest/app/src/main/res/layout/activity_main.xml" value="0.25" />
